@@ -20,7 +20,9 @@ Kawach is a comprehensive women safety application designed to provide immediate
 
 
 ## System Architecture
-
+<p align="center">
+  <img src="assets/arch.jpg" alt="Logo" style="width:600px;" />
+</p>
 
 The application follows a microservices architecture with the following components:
 - Frontend Mobile Application (Flutter)
